@@ -1,0 +1,18 @@
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+ol {
+    background-color: blanchedalmond;
+}
+
+li {
+    color: black;
+    font-size: 36px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
